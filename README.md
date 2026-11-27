@@ -100,12 +100,7 @@ Tests run automatically on every push with GitHub Actions.
 >
 > **Answer:** At 23:00 every line is quiet. Vapur + F1 is still the calmest route (ferry 11%, F1 25%).
 
-### Ideas for improvement
-- Real crowd data from the Istanbul Municipality (İBB) Open Data Portal
-- More lines, stops and time slots
-- Crowd forecasting from historical data (weather, events)
-- Route duration with transfer times and walking distance
-- Map visualization
+
 
 ---
 
@@ -200,9 +195,3 @@ Testler her push'ta GitHub Actions ile otomatik çalışır.
 >
 > **Cevap:** 23:00'te tüm hatlar düşük yoğunlukta. Vapur + F1 yine en rahat rota (Vapur %11, F1 %25).
 
-### Geliştirme fikirleri
-- İBB Açık Veri Portalı'ndan gerçek yoğunluk verisi
-- Daha fazla hat, durak ve saat dilimi
-- Geçmiş veriden yoğunluk tahmini (hava durumu, etkinlikler)
-- Aktarma süresi ve yürüme mesafesiyle rota süresi hesabı
-- Harita üzerinde görselleştirme
